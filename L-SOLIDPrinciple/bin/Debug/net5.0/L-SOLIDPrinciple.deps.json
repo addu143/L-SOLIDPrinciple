@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "L-SOLIDPrinciple/1.0.0": {
+        "dependencies": {
+          "WithLSV": "1.0.0",
+          "WithoutLSV": "1.0.0"
+        },
+        "runtime": {
+          "L-SOLIDPrinciple.dll": {}
+        }
+      },
+      "WithLSV/1.0.0": {
+        "runtime": {
+          "WithLSV.dll": {}
+        }
+      },
+      "WithoutLSV/1.0.0": {
+        "runtime": {
+          "WithoutLSV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L-SOLIDPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WithLSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WithoutLSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\bin\Debug\net5.0\WithoutLSV.deps.json
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\bin\Debug\net5.0\WithoutLSV.dll
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\bin\Debug\net5.0\ref\WithoutLSV.dll
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\bin\Debug\net5.0\WithoutLSV.pdb
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\obj\Debug\net5.0\WithoutLSV.csproj.AssemblyReference.cache
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\obj\Debug\net5.0\WithoutLSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\obj\Debug\net5.0\WithoutLSV.AssemblyInfoInputs.cache
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\obj\Debug\net5.0\WithoutLSV.AssemblyInfo.cs
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\obj\Debug\net5.0\WithoutLSV.csproj.CoreCompileInputs.cache
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\obj\Debug\net5.0\WithoutLSV.dll
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\obj\Debug\net5.0\ref\WithoutLSV.dll
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithoutLSV\obj\Debug\net5.0\WithoutLSV.pdb

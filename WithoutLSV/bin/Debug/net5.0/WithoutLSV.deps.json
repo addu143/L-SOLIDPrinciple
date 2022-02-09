@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WithoutLSV/1.0.0": {
+        "runtime": {
+          "WithoutLSV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WithoutLSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

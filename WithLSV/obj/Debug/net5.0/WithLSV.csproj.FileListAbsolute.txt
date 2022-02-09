@@ -1,0 +1,12 @@
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\bin\Debug\net5.0\WithLSV.deps.json
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\bin\Debug\net5.0\WithLSV.dll
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\bin\Debug\net5.0\ref\WithLSV.dll
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\bin\Debug\net5.0\WithLSV.pdb
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\obj\Debug\net5.0\WithLSV.csproj.AssemblyReference.cache
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\obj\Debug\net5.0\WithLSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\obj\Debug\net5.0\WithLSV.AssemblyInfoInputs.cache
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\obj\Debug\net5.0\WithLSV.AssemblyInfo.cs
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\obj\Debug\net5.0\WithLSV.csproj.CoreCompileInputs.cache
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\obj\Debug\net5.0\WithLSV.dll
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\obj\Debug\net5.0\ref\WithLSV.dll
+D:\projects\GitHub\SOLID-Principle\L-SOLIDPrinciple\WithLSV\obj\Debug\net5.0\WithLSV.pdb

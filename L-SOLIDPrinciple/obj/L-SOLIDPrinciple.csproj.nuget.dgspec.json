@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\L-SOLIDPrinciple\\L-SOLIDPrinciple.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\L-SOLIDPrinciple\\L-SOLIDPrinciple.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\L-SOLIDPrinciple\\L-SOLIDPrinciple.csproj",
+        "projectName": "L-SOLIDPrinciple",
+        "projectPath": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\L-SOLIDPrinciple\\L-SOLIDPrinciple.csproj",
+        "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\L-SOLIDPrinciple\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithLSV\\WithLSV.csproj": {
+                "projectPath": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithLSV\\WithLSV.csproj"
+              },
+              "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithoutLSV\\WithoutLSV.csproj": {
+                "projectPath": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithoutLSV\\WithoutLSV.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithLSV\\WithLSV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithLSV\\WithLSV.csproj",
+        "projectName": "WithLSV",
+        "projectPath": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithLSV\\WithLSV.csproj",
+        "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithLSV\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithoutLSV\\WithoutLSV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithoutLSV\\WithoutLSV.csproj",
+        "projectName": "WithoutLSV",
+        "projectPath": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithoutLSV\\WithoutLSV.csproj",
+        "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\GitHub\\SOLID-Principle\\L-SOLIDPrinciple\\WithoutLSV\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
